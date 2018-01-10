@@ -8,5 +8,6 @@ public class c_mainClass {
 		System.out.println("Hallo Alex kannst du das lesen?");
 		System.out.println("Jawohl, kann ich. Und commiten kann ich auch!");
 		System.out.println("La le lu");
+		System.out.println("tra la la la la");
 	}
 }
