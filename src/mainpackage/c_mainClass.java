@@ -10,5 +10,6 @@ public class c_mainClass {
 		System.out.println("Ich mache gleichzeitig einen Commit mit den anderen");
 		System.out.println("La le lu");
 		System.out.println("tra la la la la");
+		System.out.println("Der Commit darf nur im DeveloperBranch verfügbar sein.");
 	}
 }
